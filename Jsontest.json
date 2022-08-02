@@ -1,0 +1,41 @@
+{
+  "UserInfo":[
+    {
+  "UserId":"0",
+  "firstname":"Jonathan",
+  "Surname":"Barwell",
+  "PlayerDesc":"into VR",
+  "Maxgold":"523",
+  "Team":"Red"
+  
+},
+{
+  "UserId":"1",
+  "firstname":"Terry",
+  "Surname":"Smith",
+  "PlayerDesc":"into VR 1",
+  "Maxgold":"500",
+  "Team":"Red"
+  
+},
+{
+  "UserId":"2",
+  "firstname":"Emily",
+  "Surname":"Jones",
+  "PlayerDesc":"into VR 2",
+  "Maxgold":"490",
+  "Team":"blue"
+  
+},
+{
+  "UserId":"3",
+  "firstname":"Olivia",
+  "Surname":"Bon",
+  "PlayerDesc":"into VR 3",
+  "Maxgold":"480",
+  "Team":"blue"
+  
+}
+
+  ]
+}
